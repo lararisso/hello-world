@@ -1,2 +1,2 @@
 # hello-world
-I Will become a ata scientist!
+I Will become a Data scientist!
